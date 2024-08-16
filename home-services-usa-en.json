@@ -1,47 +1,47 @@
 {
   "services": [
     {
-      "name": "BLADE Airport",
+      "title": "BLADE Airport",
       "description": "Fly between Manhattan and the NYC area airports in just 5 minutes.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1701893910.jpeg"
     },
     {
-      "name": "BLADE Hamptons",
+      "title": "BLADE Hamptons",
       "description": "Fly helicopters and seaplanes between Manhattan and 5 Hamptons destinations.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1619715923.jpeg"
     },
     {
-      "name": "Hamptons Streamliner",
+      "title": "Hamptons Streamliner",
       "description": "First class coach service between NYC and the Hamptons with the service, detail and amenities you've come to expect from us.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1716583611.jpeg"
     },
     {
-      "name": "Montauk Sky",
+      "title": "Montauk Sky",
       "description": "Flights from New York to Montauk for $595.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1709478293.jpeg"
     },
     {
-      "name": "BLADE Atlantic City",
+      "title": "BLADE Atlantic City",
       "description": "Fly between Manhattan and Atlantic City and on the rooftop of Ocean Casino Resort.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1715088842.jpeg"
     },
     {
-      "name": "BLADE Anywhere",
+      "title": "BLADE Anywhere",
       "description": "Private charters of helicopters, jets and turboprops.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1710874959.jpeg"
     },
     {
-      "name": "BLADE Passes & Gifts",
+      "title": "BLADE Passes & Gifts",
       "description": "Explore flight passes and credits for BLADE Airport, Hamptons, Charters and more.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1699310264.jpeg"
     },
     {
-      "name": "BLADELive - Tennis Championships",
+      "title": "BLADELive - Tennis Championships",
       "description": "Fly to the most prestigious tennis tournament in the US in just 7 minutes.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1692735764.jpeg"
     },
     {
-      "name": "Ground Connect",
+      "title": "Ground Connect",
       "description": "BLADE SUVs for individuals, businesses, or communities in need of ground transport.",
       "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1699310744.jpeg"
     }
