@@ -3,47 +3,47 @@
     {
       "title": "Nice ⇆ Monaco",
       "description": "Book by-the-seat between Monaco and Nice Côte d'Azur International Airport.",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1669389132.jpeg",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1669389132.jpeg",
     },
     {
       "title": "BLADE Anywhere",
       "description": "Charter jets and helicopters anywhere in Europe.",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1675705766.png",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1675705766.png",
     },
     {
       "title": "BLADE Saint-Tropez",
       "description": "Charter your own flight and reach the iconic city of Saint-Tropez on the French Riviera.",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1666874610.jpeg",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1666874610.jpeg",
     },
     {
       "title": "BLADE Cannes",
       "description": "Book a charter between Nice Airport and Cannes Quai du Large and reach the Croisette in less than 10min.",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1717504476.jpeg",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1717504476.jpeg",
     },
     {
       "title": "BLADE Packs",
       "description": "Fly more, save more with our BLADE Packs.",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1713121110.jpeg",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1713121110.jpeg",
     },
     {
       "title": "Monaco Panoramic Tour",
       "description": "Discover Monaco and its surroundings like never before. From 95€.",
-      "image": "https://www.blade.com/helicopter-tour-monaco?locale=en",
+      "image_url": "https://www.blade.com/helicopter-tour-monaco?locale=en",
     },
     {
       "title": "Cannes Panoramic Tour",
       "description": "See Cannes like the stars and book a BLADE starting €135.",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1717405518.jpeg",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1717405518.jpeg",
     },
     {
       "title": "Cannes Yachting Festival",
       "description": "Fly with BLADE to 2024 Cannes Yachting Festival (Sept 10-15).",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1690209941.png",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1690209941.png",
     },
     {
       "title": "Monaco Yacht Show",
       "description": "Fly to the most prestigious yacht show in just 7 minutes (Sept 25-28).",
-      "image": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1723449988.jpeg",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1723449988.jpeg",
     }
   ]
 }
