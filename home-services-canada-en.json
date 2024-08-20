@@ -1,1 +1,24 @@
-
+{
+  "services": [
+    {
+      "title": "Vancouver - Victoria - Nanaimo",
+      "description": "Book by-the-seat between Downtown Vancouver and Victoria or Nanaimo.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1667585905.jpeg"
+    },
+    {
+      "title": "British Columbia Charters",
+      "description": "Charter helicopters, turboprops, and jets are available to fly you and your guests to your favorite B.C. destinations of Whistler, Victoria, Nanaimo, Tofino, and Long Beach.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1668204454.jpeg"
+    },
+    {
+      "title": "Panoramic Flights",
+      "description": "Leave from Vancouver Harbour and enjoy spectacular views during a panoramic tour on a S76 around the city and North Shore mountains.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1667586434.jpeg"
+    },
+    {
+      "title": "BLADE Anywhere",
+      "description": "Private charters of helicopters, jets and turboprops.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1675871688.png"
+    }
+  ]
+}
