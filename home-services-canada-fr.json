@@ -1,1 +1,24 @@
-
+{
+  "services": [
+    {
+      "title": "Vancouver - Victoria - Nanaimo",
+      "description": "Réservez votre vol à la place entre le centre-ville de Vancouver et Victoria ou Nanaimo.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1667585905.jpeg"
+    },
+    {
+      "title": "Charters en Colombie-Britannique",
+      "description": "Réservez des hélicoptères, turbopropulseurs et jets pour vous rendre avec vos invités vers vos destinations préférées en Colombie-Britannique : Whistler, Victoria, Nanaimo, Tofino et Long Beach.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1668204454.jpeg"
+    },
+    {
+      "title": "Vols panoramiques",
+      "description": "Décollez depuis le port de Vancouver et profitez de vues spectaculaires lors d'un tour panoramique en S76 autour de la ville et des montagnes du North Shore.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1667586434.jpeg"
+    },
+    {
+      "title": "Réservez un vol privé",
+      "description": "Réservez un jet, hélicoptère ou hydravion privé.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/home-tiles/1675871688.png"
+    }
+  ]
+}
