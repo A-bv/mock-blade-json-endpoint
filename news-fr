@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "title": "Du ciel à la suite",
+      "description": "BLADE et le Luxury Group de Marriott International se sont associés pour vous transporter entre l'aéroport et Manhattan.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1719880480.jpeg",
+      "contries": ["USA"]
+    },
+    {
+      "title": "MediMobility",
+      "description": "BLADE collabore avec les hôpitaux locaux pour un transport rapide et à moindre coût d’organes destinés à la transplantation.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1676304562.png",
+      "contries": ["USA","CA"]
+    },
+    {
+      "title": "Notre transition vers l'eVTOL",
+      "description": "Les aéronefs électrique à décollage et atterrissage verticaux (ou eVTOL) sont silencieux et non-polluants.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1676567466.png",
+      "contries": ["USA","CA","EU]
+    },
+    {
+      "title": "Montauk Sky",
+      "description": "",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1590526834.jpeg",
+      "contries": ["USA","CA","EU"]
+    },
+    {
+      "title": "Événements BLADE",
+      "description": "Voyagez avec BLADE pour assister aux plus grands événements sur la Côte d'Azur.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1713883671.jpeg",
+      "contries": ["EU"]
+    }
+  ]
+}
