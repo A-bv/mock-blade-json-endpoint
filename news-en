@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "title": "Sky to Suite",
+      "description": "BLADE and Luxury Group by Marriott International have partnered to fly you between the airport and Manhattan.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1719880480.jpeg",
+      "contries": ["USA"]
+    },
+    {
+      "title": "MediMobility",
+      "description": "We partner with hospitals for cost-effective, rapid movement of organs for transplant.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1676304562.png",
+      "contries": ["USA","CA"]
+    },
+    {
+      "title": "Our Transition to EVA (eVTOL)",
+      "description": "Electric Vertical Aircraft (EVA) are quiet and zero emissions—they are our future.",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1676567466.png",
+      "contries": ["USA","CA","EU]
+    },
+    {
+      "title": "Montauk Sky",
+      "description": "",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1590526834.jpeg",
+      "contries": ["USA","CA","EU"]
+    },
+    {
+      "title": "BLADE events",
+      "description": "Fly with BLADE to assist top events on the French Riviera",
+      "image_url": "https://brs-apartments.flyblade.com/blade/production/cards/1713883671.jpeg",
+      "contries": ["EU"]
+    }
+  ]
+}
